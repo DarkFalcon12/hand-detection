@@ -6,4 +6,5 @@ The required libraries are  mediapipe and opencv.
 The command for installation[windows]:
 
   pip install mediapipe
+  
   pip install opencv-python
